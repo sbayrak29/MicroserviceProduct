@@ -12,5 +12,5 @@ public class MicroserviceProductApplication
 	{
 		SpringApplication.run(MicroserviceProductApplication.class, args);
 	}
-
+//yeni değişiklik product için 05/04/2023 saat13:30
 }
